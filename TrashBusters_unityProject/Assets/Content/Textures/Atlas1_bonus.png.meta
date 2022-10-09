@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 5176360549199234ca93e7e5f7404cbb
+timeCreated: 1447755929
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Atlas1_bonus_0
+    21300002: Atlas1_bonus_1
+    21300004: Atlas1_bonus_2
+    21300006: Atlas1_bonus_3
+    21300008: Atlas1_bonus_4
+    21300010: Atlas1_bonus_5
+    21300012: Atlas1_bonus_7
+    21300014: Atlas1_bonus_8
+    21300016: Atlas1_bonus_9
+    21300018: Atlas1_bonus_10
+    21300020: Atlas1_bonus_11
+    21300022: Atlas1_bonus_12
+    21300024: Atlas1_bonus_14
+    21300026: Atlas1_bonus_15
+    21300028: Atlas1_bonus_16
+    21300030: Atlas1_bonus_17
+    21300032: Atlas1_bonus_18
+    21300034: Atlas1_bonus_19
+    21300036: Atlas1_bonus_21
+    21300038: Atlas1_bonus_22
+    21300040: Atlas1_bonus_23
+    21300042: Atlas1_bonus_24
+    21300044: Atlas1_bonus_25
+    21300046: Atlas1_bonus_26
+    21300048: Atlas1_bonus_28
+    21300050: Atlas1_bonus_29
+    21300052: Atlas1_bonus_30
+    21300054: Atlas1_bonus_31
+    21300056: Atlas1_bonus_32
+    21300058: Atlas1_bonus_33
+    21300060: Atlas1_bonus_35
+    21300062: Atlas1_bonus_36
+    21300064: Atlas1_bonus_37
+    21300066: Atlas1_bonus_38
+    21300068: Atlas1_bonus_39
+    21300070: Atlas1_bonus_40
+    21300072: Atlas1_bonus_42
+    21300074: Atlas1_bonus_43
+    21300076: Atlas1_bonus_44
+    21300078: Atlas1_bonus_45
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Atlas1_bonus_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1751
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1751
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_2
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1751
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_3
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1751
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_4
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1751
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_5
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1751
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1459
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_8
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1460
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_9
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1460
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_10
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1460
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_11
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1461
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_12
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1461
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1149
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1149
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_16
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1149
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_17
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1149
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_18
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1149
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_19
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1148
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 837
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 837
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_23
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 838
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_24
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 837
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_25
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 837
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_26
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 836
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 509
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_29
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 508
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_30
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 511
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_31
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 510
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_32
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 510
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_33
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 507
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 181
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_37
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 178
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_38
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 179
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas1_bonus_39
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 179
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

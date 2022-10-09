@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: d1d289cfd2e2a9846b59ed86a23a2086
+timeCreated: 1431767837
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bubble_frame_0
+    21300002: bubble_frame_1
+    21300004: bubble_frame_2
+    21300006: bubble_frame_3
+    21300008: bubble_frame_4
+    21300010: bubble_frame_5
+    21300012: bubble_frame_6
+    21300014: bubble_frame_7
+    21300016: bubble_frame_8
+    21300018: bubble_frame_9
+    21300020: bubble_frame_10
+    21300022: bubble_frame_11
+    21300024: bubble_frame_12
+    21300026: bubble_frame_13
+    21300028: bubble_frame_14
+    21300030: bubble_frame_15
+    21300032: bubble_frame_16
+    21300034: bubble_frame_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bubble_frame_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 852
+        width: 150
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 852
+        width: 150
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 852
+        width: 150
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 844
+        width: 150
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_4
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 836
+        width: 150
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 836
+        width: 150
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 664
+        width: 150
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 664
+        width: 150
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 664
+        width: 150
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_9
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 663
+        width: 150
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 664
+        width: 150
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_11
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 662
+        width: 151
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 492
+        width: 150
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 492
+        width: 150
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 484
+        width: 150
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_15
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 484
+        width: 150
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_16
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 484
+        width: 150
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_frame_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 484
+        width: 150
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

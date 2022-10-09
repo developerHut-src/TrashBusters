@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: a85c590800e2c5846986442a2f35d769
+timeCreated: 1431516159
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: trash_forest_typeA0
+    21300002: trash_forest_typeA1
+    21300004: trash_forest_TypeB0
+    21300006: trash_forest_TypeC0
+    21300008: trash_forest_TypeD0
+    21300010: trash_forest_TypeD1
+    21300012: trash_forest_TypeD2
+    21300014: trash_forest_TypeB1
+    21300016: trash_forest_TypeB2
+    21300018: trash_forest_TypeA2
+    21300020: trash_forest_TypeA3
+    21300022: trash_forest_TypeA4
+    21300024: trash_forest_TypeC1
+    21300026: trash_forest_TypeC2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: trash_forest_typeA0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1685
+        width: 417
+        height: 342
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_forest_typeA1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1691
+        width: 416
+        height: 346
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_forest_TypeB0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 901
+        width: 582
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_forest_TypeC0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1255
+        width: 415
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_forest_TypeD0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 194
+        width: 361
+        height: 534
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_forest_TypeD1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 170
+        width: 371
+        height: 658
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_forest_TypeD2
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 102
+        width: 680
+        height: 540
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_forest_TypeB1
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 925
+        width: 545
+        height: 210
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_forest_TypeB2
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 663
+        width: 566
+        height: 564
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_forest_TypeA2
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1766
+        width: 440
+        height: 257
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_forest_TypeA3
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1775
+        width: 261
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_forest_TypeA4
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1818
+        width: 187
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_forest_TypeC1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1324
+        width: 591
+        height: 319
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_forest_TypeC2
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1323
+        width: 490
+        height: 279
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

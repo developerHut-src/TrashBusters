@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: b1e34fd16acbf2447ba2a5cb37630257
+timeCreated: 1434383183
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: health_Atlas_0
+    21300002: health_Atlas_1
+    21300004: health_Atlas_2
+    21300006: health_Atlas_3
+    21300008: health_Atlas_4
+    21300010: health_Atlas_5
+    21300012: health_Atlas_6
+    21300014: health_Atlas_7
+    21300016: health_Atlas_8
+    21300018: health_Atlas_9
+    21300020: health_Atlas_10
+    21300022: health_Atlas_11
+    21300024: health_Atlas_12
+    21300026: health_Atlas_13
+    21300028: health_Atlas_14
+    21300030: health_Atlas_15
+    21300032: health_Atlas_16
+    21300034: health_Atlas_17
+    21300036: health_Atlas_18
+    21300038: health_Atlas_19
+    21300040: health_Atlas_20
+    21300042: health_Atlas_21
+    21300044: health_Atlas_22
+    21300046: health_Atlas_23
+    21300048: health_Atlas_24
+    21300050: health_Atlas_25
+    21300052: health_Atlas_26
+    21300054: health_Atlas_27
+    21300056: health_Atlas_28
+    21300058: health_Atlas_29
+    21300060: health_Atlas_30
+    21300062: health_Atlas_31
+    21300064: health_Atlas_32
+    21300066: health_Atlas_33
+    21300068: health_Atlas_34
+    21300070: health_Atlas_35
+    21300072: health_Atlas_36
+    21300074: health_Atlas_37
+    21300076: health_Atlas_38
+    21300078: health_Atlas_39
+    21300080: health_Atlas_40
+    21300082: health_Atlas_41
+    21300084: health_Atlas_42
+    21300086: health_Atlas_43
+    21300088: health_Atlas_44
+    21300090: health_Atlas_45
+    21300092: health_Atlas_46
+    21300094: health_Atlas_47
+    21300096: health_Atlas_48
+    21300098: health_Atlas_49
+    21300100: health_Atlas_50
+    21300102: health_Atlas_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: health_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1815
+        width: 218
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1815
+        width: 216
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1821
+        width: 213
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1822
+        width: 211
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1823
+        width: 208
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1822
+        width: 211
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1823
+        width: 213
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1823
+        width: 216
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1488
+        width: 230
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1488
+        width: 228
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1488
+        width: 231
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1487
+        width: 231
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1487
+        width: 231
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1488
+        width: 230
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1487
+        width: 230
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1196
+        width: 231
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1196
+        width: 231
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1196
+        width: 239
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1196
+        width: 261
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1196
+        width: 261
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1196
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

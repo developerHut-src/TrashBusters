@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: ea87ca80d2aa8bd41ac18618eb022cbd
+timeCreated: 1431804537
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: damage_explode_atlas_0
+    21300002: damage_explode_atlas_1
+    21300004: damage_explode_atlas_2
+    21300006: damage_explode_atlas_3
+    21300008: damage_explode_atlas_4
+    21300010: damage_explode_atlas_5
+    21300012: damage_explode_atlas_6
+    21300014: damage_explode_atlas_7
+    21300016: damage_explode_atlas_8
+    21300018: damage_explode_atlas_9
+    21300020: damage_explode_atlas_10
+    21300022: damage_explode_atlas_11
+    21300024: damage_explode_atlas_12
+    21300026: damage_explode_atlas_13
+    21300028: damage_explode_atlas_14
+    21300030: damage_explode_atlas_15
+    21300032: damage_explode_atlas_16
+    21300034: damage_explode_atlas_17
+    21300036: damage_explode_atlas_18
+    21300038: damage_explode_atlas_19
+    21300040: damage_explode_atlas_20
+    21300042: damage_explode_atlas_21
+    21300044: damage_explode_atlas_22
+    21300046: damage_explode_atlas_23
+    21300048: damage_explode_atlas_24
+    21300050: damage_explode_atlas_25
+    21300052: damage_explode_atlas_26
+    21300054: damage_explode_atlas_27
+    21300056: damage_explode_atlas_28
+    21300058: damage_explode_atlas_29
+    21300060: damage_explode_atlas_30
+    21300062: damage_explode_atlas_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: damage_explode_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1785
+        width: 326
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1788
+        width: 364
+        height: 254
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1785
+        width: 362
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1784
+        width: 370
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1779
+        width: 370
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1538
+        width: 329
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1533
+        width: 371
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1532
+        width: 373
+        height: 252
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1521
+        width: 380
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1520
+        width: 368
+        height: 254
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 388
+        height: 276
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1270
+        width: 367
+        height: 257
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1270
+        width: 389
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1266
+        width: 362
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1267
+        width: 383
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 956
+        width: 386
+        height: 297
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 952
+        width: 369
+        height: 303
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 956
+        width: 369
+        height: 299
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 954
+        width: 369
+        height: 299
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 952
+        width: 377
+        height: 303
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 695
+        width: 384
+        height: 259
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 693
+        width: 363
+        height: 259
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 728
+        width: 363
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 753
+        width: 361
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 455
+        width: 361
+        height: 235
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 460
+        width: 349
+        height: 227
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 460
+        width: 342
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 467
+        width: 389
+        height: 279
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 464
+        width: 406
+        height: 289
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 226
+        width: 384
+        height: 232
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 226
+        width: 352
+        height: 232
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: damage_explode_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 224
+        width: 382
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

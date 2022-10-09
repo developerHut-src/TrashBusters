@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: b95f61f434790224ea383e69f040fd6b
+timeCreated: 1433660515
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MenuButton1
+    21300002: star
+    21300004: CancelButton
+    21300006: PlayButton
+    21300008: InfoButton
+    21300010: SettingsButton
+    21300012: OkButton
+    21300014: MenuButton2
+    21300016: MessageWindow
+    21300018: LevelSelectionInfo
+    21300020: LevelIcon_background
+    21300022: LocationIcon
+    21300024: SettingsPanel
+    21300026: VolumePlusButton
+    21300028: VolumeMinusButton
+    21300030: VolumeDisableButton
+    21300032: VolumeEnableButton
+    21300034: LockIcon
+    21300036: LocationSelectionButton
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MenuButton1
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1709
+        width: 424
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1894
+        width: 136
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CancelButton
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1885
+        width: 257
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayButton
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1886
+        width: 254
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InfoButton
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1885
+        width: 254
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SettingsButton
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1888
+        width: 257
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OkButton
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1888
+        width: 253
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuButton2
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1885
+        width: 421
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MessageWindow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 969
+        width: 1478
+        height: 915
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LevelSelectionInfo
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 34
+        width: 1472
+        height: 904
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LevelIcon_background
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 712
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LocationIcon
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1008
+        width: 258
+        height: 257
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SettingsPanel
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 31
+        width: 567
+        height: 675
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VolumePlusButton
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1462
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VolumeMinusButton
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1462
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VolumeDisableButton
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1274
+        width: 185
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VolumeEnableButton
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1267
+        width: 186
+        height: 187
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LockIcon
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1508
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LocationSelectionButton
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 233
+        width: 220
+        height: 202
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

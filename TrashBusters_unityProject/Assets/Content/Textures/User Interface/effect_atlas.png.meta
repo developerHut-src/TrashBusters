@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 39e652690db5b19489436823a9da0191
+timeCreated: 1434382871
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: effect_atlas_0
+    21300002: effect_atlas_1
+    21300004: effect_atlas_2
+    21300006: effect_atlas_3
+    21300008: effect_atlas_4
+    21300010: effect_atlas_5
+    21300012: effect_atlas_6
+    21300014: effect_atlas_7
+    21300016: effect_atlas_8
+    21300018: effect_atlas_9
+    21300020: effect_atlas_10
+    21300022: effect_atlas_11
+    21300024: effect_atlas_12
+    21300026: effect_atlas_13
+    21300028: effect_atlas_14
+    21300030: effect_atlas_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: effect_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1914
+        width: 160
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1915
+        width: 166
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1914
+        width: 161
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1914
+        width: 160
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1915
+        width: 162
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1915
+        width: 159
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1915
+        width: 163
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1914
+        width: 166
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1915
+        width: 168
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1915
+        width: 170
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1798
+        width: 165
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1799
+        width: 168
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1799
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1794
+        width: 162
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1791
+        width: 163
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: effect_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1789
+        width: 153
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
