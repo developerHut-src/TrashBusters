@@ -370,9 +370,9 @@ public class MainMenu : MonoBehaviour {
 		levelSelectionCells = new LevelSelectionCell[cellsRoot.childCount];
 		for(int i=0;i<levelSelectionCells.Length;i++){
 			levelSelectionCells[i] = new LevelSelectionCell();
-			levelSelectionCells[i].selectionButtonTransform = cellsRoot.GetChild (i).FindChild("SelectionButton");
-			levelSelectionCells[i].ratingLineTransform = cellsRoot.GetChild (i).FindChild("RatingInfo");
-			levelSelectionCells[i].accessInfoTransform = cellsRoot.GetChild (i).FindChild("AccessInfo");
+			levelSelectionCells[i].selectionButtonTransform = cellsRoot.GetChild (i).Find("SelectionButton");
+			levelSelectionCells[i].ratingLineTransform = cellsRoot.GetChild (i).Find("RatingInfo");
+			levelSelectionCells[i].accessInfoTransform = cellsRoot.GetChild (i).Find("AccessInfo");
 		}
 	}
 

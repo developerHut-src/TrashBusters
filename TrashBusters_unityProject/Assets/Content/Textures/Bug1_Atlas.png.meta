@@ -1,75 +1,142 @@
 fileFormatVersion: 2
 guid: c0a654b4d6815794dbb0cf33204d3125
-timeCreated: 1431970859
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: BugA_frame1
-    21300002: BugC_frame1
-    21300004: BugB_frame1
-    21300006: BugA_frame2
-    21300008: BugA_frame3
-    21300010: BugA_frame4
-    21300012: BugA_frame5
-    21300014: BugC_frame2
-    21300016: BugC_frame3
-    21300018: BugC_frame4
-    21300020: BugC_frame5
-    21300022: BugC_frame2
-    21300024: BugC_frame3
-    21300026: BugC_frame4
-    21300028: BugC_frame5
-    21300030: BugB_frame2
-    21300032: BugB_frame3
-    21300034: BugB_frame4
-    21300036: BugB_frame5
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BugA_frame1
+  - first:
+      213: 21300002
+    second: BugC_frame1
+  - first:
+      213: 21300004
+    second: BugB_frame1
+  - first:
+      213: 21300006
+    second: BugA_frame2
+  - first:
+      213: 21300008
+    second: BugA_frame3
+  - first:
+      213: 21300010
+    second: BugA_frame4
+  - first:
+      213: 21300012
+    second: BugA_frame5
+  - first:
+      213: 21300014
+    second: BugC_frame2
+  - first:
+      213: 21300016
+    second: BugC_frame3
+  - first:
+      213: 21300018
+    second: BugC_frame4
+  - first:
+      213: 21300020
+    second: BugC_frame5
+  - first:
+      213: 21300022
+    second: BugC_frame2
+  - first:
+      213: 21300024
+    second: BugC_frame3
+  - first:
+      213: 21300026
+    second: BugC_frame4
+  - first:
+      213: 21300028
+    second: BugC_frame5
+  - first:
+      213: 21300030
+    second: BugB_frame2
+  - first:
+      213: 21300032
+    second: BugB_frame3
+  - first:
+      213: 21300034
+    second: BugB_frame4
+  - first:
+      213: 21300036
+    second: BugB_frame5
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 512
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: BugA_frame1
+    - serializedVersion: 2
+      name: BugA_frame1
       rect:
         serializedVersion: 2
         x: 25
@@ -77,9 +144,20 @@ TextureImporter:
         width: 350
         height: 446
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 1, y: 0, z: 0, w: 0}
-    - name: BugC_frame1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugC_frame1
       rect:
         serializedVersion: 2
         x: 43
@@ -87,9 +165,20 @@ TextureImporter:
         width: 373
         height: 445
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: BugA_frame2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugA_frame2
       rect:
         serializedVersion: 2
         x: 378
@@ -97,9 +186,20 @@ TextureImporter:
         width: 411
         height: 443
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: BugA_frame3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugA_frame3
       rect:
         serializedVersion: 2
         x: 789
@@ -107,9 +207,20 @@ TextureImporter:
         width: 407
         height: 425
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: BugA_frame4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugA_frame4
       rect:
         serializedVersion: 2
         x: 1219
@@ -117,9 +228,20 @@ TextureImporter:
         width: 357
         height: 458
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: BugA_frame5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugA_frame5
       rect:
         serializedVersion: 2
         x: 1612
@@ -127,9 +249,20 @@ TextureImporter:
         width: 358
         height: 458
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: BugC_frame2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugC_frame2
       rect:
         serializedVersion: 2
         x: 417
@@ -137,9 +270,20 @@ TextureImporter:
         width: 397
         height: 434
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: BugC_frame3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugC_frame3
       rect:
         serializedVersion: 2
         x: 816
@@ -147,9 +291,20 @@ TextureImporter:
         width: 412
         height: 422
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: BugC_frame4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugC_frame4
       rect:
         serializedVersion: 2
         x: 1229
@@ -157,9 +312,20 @@ TextureImporter:
         width: 374
         height: 453
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: BugC_frame5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugC_frame5
       rect:
         serializedVersion: 2
         x: 1612
@@ -167,9 +333,20 @@ TextureImporter:
         width: 379
         height: 459
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: BugB_frame1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugB_frame1
       rect:
         serializedVersion: 2
         x: 56
@@ -177,9 +354,20 @@ TextureImporter:
         width: 377
         height: 462
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: BugB_frame2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugB_frame2
       rect:
         serializedVersion: 2
         x: 433
@@ -187,9 +375,20 @@ TextureImporter:
         width: 401
         height: 466
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: BugB_frame3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugB_frame3
       rect:
         serializedVersion: 2
         x: 836
@@ -197,9 +396,20 @@ TextureImporter:
         width: 412
         height: 468
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: BugB_frame4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugB_frame4
       rect:
         serializedVersion: 2
         x: 1255
@@ -207,9 +417,20 @@ TextureImporter:
         width: 378
         height: 489
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: BugB_frame5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BugB_frame5
       rect:
         serializedVersion: 2
         x: 1634
@@ -217,9 +438,31 @@ TextureImporter:
         width: 379
         height: 497
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
